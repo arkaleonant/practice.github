@@ -18,6 +18,7 @@ public class ComArka {
         // TODO code application logic here
         System.out.println("Hello world!");
         System.out.println("World War 3");
+        System.out.println("Arema Indonesia");
     }
     
 }
